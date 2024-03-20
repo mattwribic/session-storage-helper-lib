@@ -1,0 +1,25 @@
+{
+  "name": "session-storage-helper-lib",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattwribic/session-storage-helper-lib"
+  },
+  "description": "A utility library for simplifying interactions with web's session storage, including complex objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sessionStorage",
+    "web storage",
+    "utility",
+    "session storage"
+  ],
+  "author": "Matthias Olog",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}
